@@ -9,12 +9,12 @@
       <p><b>福建 三明 | 中共预备党员 </b></p>
       <p><b>1996年12月  | 2023届硕士毕业生 | CET-4</b></p>
       <p><b>电话： 13341224520 (微信同号)</b></p>
-      <p><b>Ocean University of China</b></p>
+      <p><b>农业工程与信息技术(计算机技术方向)</b></p>
       <p>yuzhenfu@stu.ouc.edu.cn </p>
     </td>
   </tr>
 </table>
-supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html)
+师从[董军宇教授](http://ai-ouc.cn/faculty/dongjy.html)
 邮箱：yuzhenfu@stu.ouc.edu.cn 
 
 
