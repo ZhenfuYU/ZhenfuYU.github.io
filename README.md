@@ -1,4 +1,4 @@
-## Zhenfu Yu  (俞祯富)
+## Yakun Ju  (举雅琨)
 
 <table border="0">
   <tr>
@@ -6,17 +6,17 @@
       <img src="https://s3.bmp.ovh/imgs/2022/03/f090ed19566fdd0f.jpg" width="100%">   
     </td>
     <td width="75%">
-      <p><b>Ph.D. </b></p>
-      <p><b>Department of Computer Science and Technology</b></p>
+      <p><b>福建 三明 | 中共预备党员 </b></p>
+      <p><b>1996年12月  | 2023届硕士毕业生 | CET-4</b></p>
+      <p><b>电话： 13341224520 (微信同号)</b></p>
       <p><b>Ocean University of China</b></p>
       <p>yuzhenfu@stu.ouc.edu.cn </p>
     </td>
   </tr>
 </table>
+supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html)
+邮箱：yuzhenfu@stu.ouc.edu.cn 
 
-福建 三明 | 中共预备党员 | 1996年12月  | 2023届硕士毕业生 | CET-4 
-
-电话： 13341224520 (微信同号)   	 邮箱：yuzhenfu@stu.ouc.edu.cn 
 
 #### 主要研究方向：计算机视觉、机器人视觉、步态识别、人体姿态估计
 #### 期望岗位：软件开发工程师、算法工程师
