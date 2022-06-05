@@ -1,4 +1,4 @@
-## Yakun Ju  (举雅琨)
+## Zhenfu Yu  (俞祯富)
 
 <table border="0">
   <tr>
@@ -14,11 +14,6 @@
   </tr>
 </table>
 
-
-
-# ZhenfuYU.github.io
-
-### 俞祯富
 福建 三明 | 中共预备党员 | 1996年12月  | 2023届硕士毕业生 | CET-4 
 
 电话： 13341224520 (微信同号)   	 邮箱：yuzhenfu@stu.ouc.edu.cn 
