@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="https://github.com/ZhenfuYU/ZhenfuYU.github.io/blob/main/mmexport1543117709597.jpg" width="100%">   
+      <img src="https://raw.githubusercontent.com/ZhenfuYU/ZhenfuYU.github.io/main/mmexport1543117709597.jpg" width="100%">   
     </td>
     <td width="75%">
       <p><b>山东 青岛 | 中共预备党员 </b></p>
