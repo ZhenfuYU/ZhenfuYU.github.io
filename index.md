@@ -6,8 +6,8 @@
       <img src="https://raw.githubusercontent.com/ZhenfuYU/ZhenfuYU.github.io/main/mmexport1543117709597.jpg" width="100%">   
     </td>
     <td width="75%">
-      <p><b>福建 三明 | 中共预备党员 </b></p>
-      <p><b>1996年12月  | 2023届硕士毕业生 | CET-4</b></p>
+      <p><b>山东 青岛 | 中共预备党员 </b></p>
+      <p><b>1996年12月 | 2023届硕士毕业生</b></p>
       <p><b>电话： 13341224520 (微信同号)</b></p>
       <p><b>农业工程与信息技术(计算机技术方向)</b></p>
       <p>yuzhenfu@stu.ouc.edu.cn </p>
